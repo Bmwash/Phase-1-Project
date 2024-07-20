@@ -1,0 +1,46 @@
+{
+  "users": 
+    { "id": 1, 
+    "username": "ben", 
+    "password": "1234" 
+  },
+  
+  "stock": [
+    {
+      "id": "1",
+      "product": "rice",
+      "quantity": 100,
+      "status": "in stock"
+    },
+    {
+      "id": "2",
+      "product": "milk",
+      "quantity": 50,
+      "status": "in stock"
+    },
+    {
+      "id": "3",
+      "product": "unga",
+      "quantity": 0,
+      "status": "out of stock"
+    },
+    {
+      "id": "5",
+      "product": "cooking oil",
+      "quantity": 30,
+      "status": "damaged"
+    },
+    {
+      "id": "1159",
+      "product": "bread",
+      "quantity": 44,
+      "status": "in stock"
+    },
+    {
+      "id": "0291",
+      "product": "maize",
+      "quantity": 10,
+      "status": "in stock"
+    }
+  ]
+}
